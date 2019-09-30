@@ -10,6 +10,9 @@ npx parcel src/index.html --open
 npx parcel build src/index.html -d docs --public-url ./
 ```
 
+## プレビュー
+https://ebiyuta.github.io/slider-practice-jquery/
+
 ## スライダーモジュールについて
 - 使い方
 
