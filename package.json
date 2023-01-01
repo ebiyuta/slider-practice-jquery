@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^1.12.3",
+    "parcel": "^2.8.2",
     "sass": "^1.23.0-module.beta.1"
   },
   "dependencies": {
